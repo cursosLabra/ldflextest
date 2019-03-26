@@ -1,0 +1,23 @@
+{
+  "name": "ldflextest",
+  "version": "0.0.1",
+  "description": "Tests of LDFlex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cursosLabra/ldflextest.git"
+  },
+  "author": "Jose Emilio Labra Gayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cursosLabra/ldflextest/issues"
+  },
+  "homepage": "https://github.com/cursosLabra/ldflextest#readme",
+  "dependencies": {
+    "ldflex": "^2.2.1",
+    "ldflex-comunica": "^3.0.0"
+  }
+}
